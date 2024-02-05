@@ -7,7 +7,7 @@
 
 ### 🚚 레포지토리의 기능은 다음과 같이 구성할 예정입니다.
 > 1. IDE : 인텔리제이 <br>
-> 2. Langauge : JAVA <br>
+> 2. Langauge : JAVA 17<br>
 > 3. Framework : spring boot <br>
 > 4. Project : Gradle - Groovy Project <br>
 
